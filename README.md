@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**lahirudesilva/lahirudesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Lahiru De Silva -  👋
 
-Here are some ideas to get you started:
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a undergraduate at SLIIT !
+
+
+<!--- 🔭 I’m currently working on a--> 
+- 🌱 I’m currently learning Angulr app development
+- 👯 I’m looking to be a full stack develooper
+- 🥅 2021 Goals: Work hard to my career
+- ⚡ Fun fact: I love to listing to music and learn more and more anything...!
+
+
+<br />
+
+### Connect with me:🌐
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+<br>
+
+
+<br>
+<br>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirudesilva&theme=radical&hide_langs_below=1&layout=compact" />
+  <br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirudesilva&show_icons=true&theme=radical&line_height=21" alt="Lahiru De Silva's github stats"/>
+</p>
