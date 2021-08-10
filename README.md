@@ -6,11 +6,6 @@
 ## I'm a undergraduate at SLIIT !
 
 
-<!--- 🔭 I’m currently working on a--> 
-- 🌱 I’m currently learning Angulr app development
-- 👯 I’m looking to be a full stack develooper
-- 🥅 2021 Goals: Work hard to my career
-- ⚡ Fun fact: I love to listing to music and learn more and more anything...!
 
 
 <br />
